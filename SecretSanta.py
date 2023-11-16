@@ -15,7 +15,6 @@ Efter utdelningen kan man försöka gissa vem som varit ens Secret Santa baserat
 
 OBS HÅLLS HEMLIGT: Du ska ge julklapp till {name_to}!
 '''
-    print(instructions)
 
     file.write(instructions)
     file.close()
